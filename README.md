@@ -1,33 +1,63 @@
-# AI-Based Resume Screening System
+AI Based Resume Screening System
 
-## Project Overview
-An AI-Based Resume Screening System that helps recruiters analyze resumes and identify suitable candidates based on required skills.
+Project Overview
 
-## Features
-- Upload PDF Resume
-- Extract Candidate Details
-- Skill Matching
-- Resume Match Score
-- Shortlist or Reject Candidates
+The AI Based Resume Screening System is a Python-based application designed to automate the resume screening process. It extracts candidate information from PDF resumes, matches skills with required skills, calculates match scores, and helps recruiters shortlist candidates.
+
+Features
+
+- Upload PDF Resumes
+- Extract Candidate Name, Email and Phone Number
+- Resume Parsing
+- Skills Matching
+- Calculate Resume Match Score
+- Shortlisted and Rejected Candidate Status
 - MySQL Database Integration
-- Candidate Dashboard
-- Update and Delete Candidates
+- Candidate Management
+- Dashboard and Analytics
+- Export Candidate Data
 
-## Technologies Used
+Technologies Used
+
 - Python
 - MySQL
 - Tkinter
 - PyPDF2
-- Regular Expressions
+- Regular Expressions (RegEx)
 
-## Project Modules
-- app.py
-- main.py
-- resume_parser.py
-- screening.py
-- database.py
+Project Files
 
-## Developed By
+- "app.py"
+- "main.py"
+- "database.py"
+- "resume_parser.py"
+- "screening.py"
+- "requirement.txt"
+
+Installation
+
+1. Clone the repository:
+   
+   "git clone https://github.com/SachinSingh8115/AI-BASED-RESUME-SCREENING.git"
+
+2. Open the project folder.
+
+3. Install the required libraries:
+   
+   "pip install -r requirement.txt"
+
+4. Configure your MySQL database connection.
+
+5. Run the application using the appropriate Python entry point.
+
+Project Purpose
+
+This project aims to reduce manual resume screening efforts and make the recruitment process faster and more efficient.
+
+Developed By
+
 Sachin Singh
-BCA Student
-CSJMU Kanpur
+
+BCA Student | Python Developer | Aspiring Data Analyst
+
+GitHub: https://github.com/SachinSingh8115
