@@ -26,16 +26,6 @@ An AI-Based Resume Screening System that helps recruiters analyze resumes and id
 - resume_parser.py
 - screening.py
 - database.py
-- ## Project Screenshots
-
-### 1. Resume Upload
-![Resume Upload](screenshots/upload_screen.png)
-
-### 2. Resume Screening Result
-![Screening Result](screenshots/screening_result.png)
-
-### 3. Dashboard
-![Dashboard](screenshots/dashboard.png)
 
 ## Developed By
 Sachin Singh
