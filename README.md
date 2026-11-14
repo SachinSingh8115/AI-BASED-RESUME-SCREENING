@@ -32,7 +32,7 @@ Project Files
 - "database.py"
 - "resume_parser.py"
 - "screening.py"
-- "requirement.txt"
+- "requirements.txt"
 
 Installation
 
